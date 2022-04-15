@@ -376,6 +376,9 @@ MonoBehaviour:
   raycastDestination: {fileID: 378668847}
   tracerEffect: {fileID: 9059750100687941076, guid: 7b19841cb3ba4a54c8a752f2b974fd43, type: 3}
   hitEffect: {fileID: 198910345202738489}
+  fireRate: 1
+  bulletSpeed: 1000
+  bulletDrop: 10
 --- !u!1 &594039296
 GameObject:
   m_ObjectHideFlags: 0
